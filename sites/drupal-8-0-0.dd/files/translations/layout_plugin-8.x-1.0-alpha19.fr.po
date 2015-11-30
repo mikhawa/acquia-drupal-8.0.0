@@ -1,0 +1,24 @@
+# French translation of Layout plugin (8.x-1.0-alpha19)
+# Copyright (c) 2015 by the French translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Layout plugin (8.x-1.0-alpha19)\n"
+"POT-Creation-Date: 2015-11-17 07:20+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n>1);\n"
+
+msgid "Layout"
+msgstr "Affichage"
+msgid "Page Title"
+msgstr "Page Title"
+msgid "Examples"
+msgstr "Exemples"
+msgid "Blocks"
+msgstr "Blocs"
+msgid "Layout settings"
+msgstr "Paramètres de mise en page"
